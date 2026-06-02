@@ -1,6 +1,6 @@
 # PDF Intelligent Parser MVP
 
-这是一个面向船舶修理规格书 PDF 的 Python MVP，提供：
+这是一个面向PDF 的 Python MVP，提供：
 
 - PDF 页面级文本抽取
 - 编号结构保留与修复
